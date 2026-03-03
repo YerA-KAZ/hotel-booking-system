@@ -1,0 +1,13 @@
+{
+  "name": "hotel-booking-system",
+  "version": "1.0.0",
+  "description": "Қонақ үй брондау жүйесі",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

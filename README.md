@@ -1,2 +1,17 @@
-# hotel-booking-system
-web soj-12 
+# Қонақ үй брондау жүйесі
+
+Интерактивті веб-қосымша (Node.js + JavaScript)
+
+## Функционалдық мүмкіндіктер
+
+- Жаңа брондау қосу
+- Брондаулар тізімін көру
+- Брондауды болдырмау
+- Статистиканы көру
+- Деректерді JSON файлда сақтау
+- EventEmitter оқиғаларын логирлеу
+- Қателерді өңдеу
+
+## Орнату және іске қосу
+git clone https://github.com/your-username/hotel-booking-system.git
+cd hotel-booking-system

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Айдар Кәрімов",
+    "email": "aidar@example.com",
+    "phone": "+77001234567",
+    "roomType": "lux",
+    "checkIn": "2024-11-01",
+    "checkOut": "2024-11-05",
+    "guests": 2,
+    "createdAt": "2024-10-25T10:30:00.000Z"
+  },
+  {
+    "name": "Kingdom",
+    "email": "nabid28516@filipx.com",
+    "phone": "+ 7 777 777 7777",
+    "roomType": "family",
+    "checkIn": "2026-03-04",
+    "checkOut": "2026-03-08",
+    "guests": 4,
+    "id": "1772545881522",
+    "createdAt": "2026-03-03T13:51:21.522Z"
+  }
+]
