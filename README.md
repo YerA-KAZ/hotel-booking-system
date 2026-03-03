@@ -13,5 +13,5 @@
 - Қателерді өңдеу
 
 ## Орнату және іске қосу
-git clone https://github.com/your-username/hotel-booking-system.git
+git clone https://github.com/YerA-KAZ/hotel-booking-system.git
 cd hotel-booking-system
